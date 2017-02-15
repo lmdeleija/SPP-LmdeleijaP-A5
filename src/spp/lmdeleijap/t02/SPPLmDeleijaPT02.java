@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package spp.lmdeleijap.t02;
+package spp.lmdeleijap.A02;
 import java.util.Scanner;
 /**
  *
  * @author luixm_000
  */
-public class SPPLmDeleijaPT02 {
+public class SPPLmDeleijaPA02 {
 
     /**
      * @param args the command line arguments
